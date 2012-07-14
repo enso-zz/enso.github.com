@@ -1,0 +1,8 @@
+  a {
+    color:#0c94df;
+    font-family: Arial, sans-serif;
+    font-size:xx-large;
+    text-decoration:none;
+  }
+  a:hover {border-bottom:1px dashed;}
+  body {background-color:white;margin-top:25px;text-align:center;}
